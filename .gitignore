@@ -1,4 +1,4 @@
 venv
 dist
 build
-census-income.egg-info
+census_income.egg-info
